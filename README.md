@@ -3,10 +3,11 @@
 
 project developed with:
 
-see the project working: https://chat.dcdev.site
+react (vite);
 
-react (vite)
-Firebird
+Firebird;
+
+see the project working: https://chat.dcdev.site
 
 ## Install
 
